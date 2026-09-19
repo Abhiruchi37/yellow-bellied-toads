@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Training outputs
+runs/
+wandb/
+
+# Model weights
+*.pt
+*.pth
+*.ckpt
+
+# Large/private datasets
+data/
+dataset/
+raw_images/
+original_images/
+
+# Environment / credentials
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
