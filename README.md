@@ -4,6 +4,19 @@ This repository contains code and experimental material for a photo-identificati
 
 The project investigates whether ventral body patterns can support individual re-identification from photographs. Three anatomical image configurations are studied so that the usefulness of each region can be evaluated separately and in combination.
 
+## Team
+
+This project was carried out as part of the RCS project at Trier University.
+
+### Team Members
+- **Tenzin Nyidon Tenzin Nyidon** – Subgular Throat
+- **Ridhima Kishor Lawane** – Subgular Throat and Ventral Abdomen
+- **Abhiruchi Sanjaykumar Bharambe** – Ventral Abdomen
+- 
+### Supervisor
+- **Prof. Dr. Henning Fernau**
+- **Prof. Dr. Michael Veith**
+
 ## Project Sections
 
 ### 1. Belly only
