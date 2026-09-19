@@ -1,3 +1,7 @@
 # YOLO Prediction Examples
 
-Upload a few representative prediction/validation images from the initial and final YOLO models here.
+This folder contains selected prediction examples produced by the YOLO belly segmentation model.
+
+The images show the belly region detected by the model before the final crop is generated. They are included as visual examples of the segmentation performance.
+
+For quantitative model performance, see the `evaluation/` folder.
