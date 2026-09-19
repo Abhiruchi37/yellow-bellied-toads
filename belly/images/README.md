@@ -1,16 +1,11 @@
-# Belly Pipeline Images
+# Documentation Images
 
-This folder is for **selected example images** used to explain the belly-only workflow.
+This folder contains only selected images used to demonstrate the workflow on GitHub. It is **not** the full dataset.
 
-Recommended contents:
+- `original/A_pond/` — a few representative original A-pond photos
+- `original/H_pond/` — a few representative original H-pond photos
+- `annotations/` — a few CVAT polygon annotation screenshots/examples
+- `crops/` — a few final extracted belly crops
+- `predictions/` — a few YOLO prediction/validation examples
 
-- `original/` — a small number of representative original A-pond and H-pond photographs
-- `annotations/` — screenshots/examples of CVAT polygon annotations
-- `crops/` — selected final belly crops
-- `predictions/` — example YOLO masks or prediction visualizations
-
-The complete original dataset should not be duplicated in GitHub. It is stored in the project Google Drive folder:
-
-https://drive.google.com/drive/u/0/folders/1r_AQc_w7h_Xhkd9MLBpo8sZaRwaw9Mv-
-
-Only upload photographs to this public repository if the project has permission to publish them.
+A small selection (roughly 3–10 per category) is enough. The full dataset remains in Google Drive.
