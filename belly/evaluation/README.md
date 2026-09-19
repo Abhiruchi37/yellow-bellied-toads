@@ -1,3 +1,3 @@
-# YOLO Model Development and Evaluation
+# YOLO Model Development
 
-This folder keeps the two YOLO segmentation stages separate. Each stage has its dataset definition, training-run outputs, and model-related files.
+This folder keep
