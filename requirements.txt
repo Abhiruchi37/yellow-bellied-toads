@@ -1,1 +1,13 @@
 
+# Core packages used by the belly pipeline
+ultralytics
+opencv-python
+numpy
+pandas
+matplotlib
+Pillow
+torch
+torchvision
+
+# Additional re-identification dependencies should be pinned
+# after the final notebook environment is reviewed.
