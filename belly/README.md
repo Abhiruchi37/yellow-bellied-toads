@@ -162,9 +162,15 @@ MiewID could also be fine-tuned using a larger labelled Yellow-Bellied Toad data
 The final notebook for this section should be stored at:
 
 ```text
-belly/notebooks/belly_pipeline.ipynb
+belly/belly_pipeline.ipynb
 ```
+
+## Images and Original Dataset
+
+Selected documentation images can be stored under [`images/`](images/), separated into original examples, annotations, final crops, and YOLO predictions.
+
+The complete original image dataset is stored in the project [Google Drive folder](https://drive.google.com/drive/u/0/folders/1r_AQc_w7h_Xhkd9MLBpo8sZaRwaw9Mv-). The full dataset is not duplicated in this public repository. Only representative research photographs should be uploaded here when sharing permission allows it.
 
 ## Data Availability
 
-The full original image dataset is not included in the public repository. Research photographs should only be uploaded when sharing permission allows it.
+The source dataset used for the belly experiment contained 349 photographs (199 A pond and 150 H pond). The Google Drive folder above is the project location for the original image files; GitHub is used for code, documentation, selected examples, and derived results.
