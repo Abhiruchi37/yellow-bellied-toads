@@ -1,0 +1,279 @@
+2026-09-02 01:20:05 ============================================================
+2026-09-02 01:20:05 Wild-ID 1.0 Rev 603 dated 2011-01-13 20:36:33 -0500
+2026-09-02 01:20:05 Arch/OS: amd64/Windows 11 10.0
+2026-09-02 01:20:05 JVM: Eclipse Adoptium
+2026-09-02 01:20:05      OpenJDK 64-Bit Server VM 25.0.2+10-LTS
+2026-09-02 01:20:05 JRE: Eclipse Adoptium JRE 25.0.2
+2026-09-02 01:20:05 JVM Spec: Oracle Corporation
+2026-09-02 01:20:05           Java Virtual Machine Specification 25
+2026-09-02 01:20:05 JRE Spec: Oracle Corporation
+2026-09-02 01:20:05           Java Platform API Specification 25
+2026-09-02 01:20:05 Java max memory = 1970 MiB
+2026-09-02 01:20:05 DB is C:\Users\Abhiruchi\OneDrive\Desktop\Wild-ID\test
+2026-09-02 01:20:13 Photos folder is C:\Users\Abhiruchi\OneDrive\Desktop\Wild-ID\A_POND_BELLIES_FINAL
+2026-09-02 01:20:19 Starting photo-similarity score computation
+2026-09-02 01:20:53 Scoring of 192 photo(s) completed; 0 error(s)/warning(s)
+2026-09-02 01:20:57 Added user-compared photo record 0 (auto-rejected)
+2026-09-02 01:21:15 Added user-compared photo record 1 (rejected by user)
+2026-09-02 01:21:38 Added user-compared photo record 2 (rejected by user)
+2026-09-02 01:22:08 Added user-compared photo record 3 (rejected by user)
+2026-09-02 01:22:21 Added user-compared photo record 4 (rejected by user)
+2026-09-02 01:22:33 Added user-compared photo record 5 (rejected by user)
+2026-09-02 01:22:59 Added user-compared photo record 6 (rejected by user)
+2026-09-02 01:23:49 Added user-compared photo record 7 (rejected by user)
+2026-09-02 01:24:46 Added user-compared photo record 8 (rejected by user)
+2026-09-02 01:25:19 Added user-compared photo record 9 (rejected by user)
+2026-09-02 01:25:35 Added user-compared photo record 10 (matched by user)
+2026-09-02 01:25:44 Added user-compared photo record 11 (matched by user)
+2026-09-02 01:26:51 Added user-compared photo record 12 (rejected by user)
+2026-09-02 01:26:56 Added user-compared photo record 13 (matched by user)
+2026-09-02 01:27:57 Added user-compared photo record 14 (rejected by user)
+2026-09-02 01:29:38 Added user-compared photo record 15 (rejected by user)
+2026-09-02 01:31:59 Added user-compared photo record 16 (rejected by user)
+2026-09-02 01:33:03 Added user-compared photo record 17 (rejected by user)
+2026-09-02 01:34:21 Added user-compared photo record 18 (rejected by user)
+2026-09-02 01:34:30 Added user-compared photo record 19 (matched by user)
+2026-09-02 01:34:59 Added user-compared photo record 20 (rejected by user)
+2026-09-02 01:35:09 Added user-compared photo record 21 (matched by user)
+2026-09-02 01:37:14 Added user-compared photo record 22 (rejected by user)
+2026-09-02 01:39:11 Added user-compared photo record 23 (rejected by user)
+2026-09-02 01:40:02 Added user-compared photo record 24 (rejected by user)
+2026-09-02 01:40:45 Added user-compared photo record 25 (matched by user)
+2026-09-02 01:42:35 Added user-compared photo record 26 (rejected by user)
+2026-09-02 01:43:44 Added user-compared photo record 27 (rejected by user)
+2026-09-02 01:44:23 Added user-compared photo record 28 (rejected by user)
+2026-09-02 01:45:30 Added user-compared photo record 29 (rejected by user)
+2026-09-02 01:46:20 Added user-compared photo record 30 (rejected by user)
+2026-09-02 01:46:56 Added user-compared photo record 31 (rejected by user)
+2026-09-02 01:47:14 Added user-compared photo record 32 (rejected by user)
+2026-09-02 01:47:54 Added user-compared photo record 33 (rejected by user)
+2026-09-02 01:48:51 Added user-compared photo record 34 (rejected by user)
+2026-09-02 01:48:57 Added user-compared photo record 35 (matched by user)
+2026-09-02 01:49:55 Added user-compared photo record 36 (rejected by user)
+2026-09-02 01:50:21 Added user-compared photo record 37 (rejected by user)
+2026-09-02 01:50:58 Added user-compared photo record 38 (rejected by user)
+2026-09-02 01:51:26 Added user-compared photo record 39 (rejected by user)
+2026-09-02 01:51:55 Added user-compared photo record 40 (rejected by user)
+2026-09-02 01:52:45 Added user-compared photo record 41 (rejected by user)
+2026-09-02 01:53:35 Added user-compared photo record 42 (rejected by user)
+2026-09-02 01:53:59 Added user-compared photo record 43 (rejected by user)
+2026-09-02 01:54:06 Added user-compared photo record 44 (matched by user)
+2026-09-02 01:54:49 Added user-compared photo record 45 (rejected by user)
+2026-09-02 01:55:39 Added user-compared photo record 46 (rejected by user)
+2026-09-02 01:56:21 Added user-compared photo record 47 (rejected by user)
+2026-09-02 01:56:26 Added user-compared photo record 48 (matched by user)
+2026-09-02 01:56:32 Added user-compared photo record 49 (matched by user)
+2026-09-02 01:57:05 Added user-compared photo record 50 (rejected by user)
+2026-09-02 01:58:12 Added user-compared photo record 51 (rejected by user)
+2026-09-02 01:58:50 Added user-compared photo record 52 (rejected by user)
+2026-09-02 01:59:21 Added user-compared photo record 53 (rejected by user)
+2026-09-02 01:59:46 Exiting (main window closed)
+2026-09-02 02:00:17 ============================================================
+2026-09-02 02:00:17 Wild-ID 1.0 Rev 603 dated 2011-01-13 20:36:33 -0500
+2026-09-02 02:00:17 Arch/OS: amd64/Windows 11 10.0
+2026-09-02 02:00:17 JVM: Eclipse Adoptium
+2026-09-02 02:00:17      OpenJDK 64-Bit Server VM 25.0.2+10-LTS
+2026-09-02 02:00:17 JRE: Eclipse Adoptium JRE 25.0.2
+2026-09-02 02:00:17 JVM Spec: Oracle Corporation
+2026-09-02 02:00:17           Java Virtual Machine Specification 25
+2026-09-02 02:00:17 JRE Spec: Oracle Corporation
+2026-09-02 02:00:17           Java Platform API Specification 25
+2026-09-02 02:00:17 Java max memory = 1970 MiB
+2026-09-02 02:00:17 DB is C:\Users\Abhiruchi\OneDrive\Desktop\Wild-ID\test
+2026-09-02 02:00:17 Photos folder is C:\Users\Abhiruchi\OneDrive\Desktop\Wild-ID\A_POND_BELLIES_FINAL
+2026-09-02 02:00:20 Exiting (main window closed)
+2026-09-02 02:00:24 ============================================================
+2026-09-02 02:00:24 Wild-ID 1.0 Rev 603 dated 2011-01-13 20:36:33 -0500
+2026-09-02 02:00:24 Arch/OS: amd64/Windows 11 10.0
+2026-09-02 02:00:24 JVM: Eclipse Adoptium
+2026-09-02 02:00:24      OpenJDK 64-Bit Server VM 25.0.2+10-LTS
+2026-09-02 02:00:24 JRE: Eclipse Adoptium JRE 25.0.2
+2026-09-02 02:00:24 JVM Spec: Oracle Corporation
+2026-09-02 02:00:24           Java Virtual Machine Specification 25
+2026-09-02 02:00:24 JRE Spec: Oracle Corporation
+2026-09-02 02:00:24           Java Platform API Specification 25
+2026-09-02 02:00:24 Java max memory = 1970 MiB
+2026-09-02 02:00:24 DB is C:\Users\Abhiruchi\OneDrive\Desktop\Wild-ID\test
+2026-09-02 02:00:24 Photos folder is C:\Users\Abhiruchi\OneDrive\Desktop\Wild-ID\A_POND_BELLIES_FINAL
+2026-09-02 02:01:03 Added user-compared photo record 54 (rejected by user)
+2026-09-02 02:02:14 Added user-compared photo record 55 (rejected by user)
+2026-09-02 02:02:52 Added user-compared photo record 56 (rejected by user)
+2026-09-02 02:03:19 Added user-compared photo record 57 (rejected by user)
+2026-09-02 02:03:25 Added user-compared photo record 58 (matched by user)
+2026-09-02 02:03:38 Added user-compared photo record 59 (matched by user)
+2026-09-02 02:04:43 Added user-compared photo record 60 (rejected by user)
+2026-09-02 02:04:48 Added user-compared photo record 61 (matched by user)
+2026-09-02 02:04:57 Exiting (main window closed)
+2026-09-02 11:38:53 ============================================================
+2026-09-02 11:38:53 Wild-ID 1.0 Rev 603 dated 2011-01-13 20:36:33 -0500
+2026-09-02 11:38:53 Arch/OS: amd64/Windows 11 10.0
+2026-09-02 11:38:53 JVM: Eclipse Adoptium
+2026-09-02 11:38:53      OpenJDK 64-Bit Server VM 25.0.2+10-LTS
+2026-09-02 11:38:53 JRE: Eclipse Adoptium JRE 25.0.2
+2026-09-02 11:38:53 JVM Spec: Oracle Corporation
+2026-09-02 11:38:53           Java Virtual Machine Specification 25
+2026-09-02 11:38:53 JRE Spec: Oracle Corporation
+2026-09-02 11:38:53           Java Platform API Specification 25
+2026-09-02 11:38:53 Java max memory = 1970 MiB
+2026-09-02 11:38:53 DB is C:\Users\Abhiruchi\OneDrive\Desktop\Wild-ID\test
+2026-09-02 11:38:53 Photos folder is C:\Users\Abhiruchi\OneDrive\Desktop\Wild-ID\A_POND_BELLIES_FINAL
+2026-09-02 11:40:02 Added user-compared photo record 62 (rejected by user)
+2026-09-02 11:41:19 Added user-compared photo record 63 (rejected by user)
+2026-09-02 11:41:31 Added user-compared photo record 64 (matched by user)
+2026-09-02 11:42:13 Added user-compared photo record 65 (matched by user)
+2026-09-02 11:43:29 Added user-compared photo record 66 (rejected by user)
+2026-09-02 11:45:03 Added user-compared photo record 67 (rejected by user)
+2026-09-02 11:45:11 Added user-compared photo record 68 (matched by user)
+2026-09-02 11:48:00 Added user-compared photo record 69 (rejected by user)
+2026-09-02 11:53:08 Added user-compared photo record 70 (rejected by user)
+2026-09-02 11:53:24 Added user-compared photo record 71 (rejected by user)
+2026-09-02 11:55:29 Added user-compared photo record 72 (rejected by user)
+2026-09-02 11:55:38 Added user-compared photo record 73 (matched by user)
+2026-09-02 11:59:49 Added user-compared photo record 74 (rejected by user)
+2026-09-02 12:03:53 Added user-compared photo record 75 (rejected by user)
+2026-09-02 12:06:08 Added user-compared photo record 76 (rejected by user)
+2026-09-02 12:07:54 Added user-compared photo record 77 (rejected by user)
+2026-09-02 12:08:55 Added user-compared photo record 78 (rejected by user)
+2026-09-02 12:10:41 Added user-compared photo record 79 (rejected by user)
+2026-09-02 12:12:39 Added user-compared photo record 80 (rejected by user)
+2026-09-02 12:12:50 Added user-compared photo record 81 (matched by user)
+2026-09-02 12:15:32 Added user-compared photo record 82 (rejected by user)
+2026-09-02 12:16:03 Added user-compared photo record 83 (rejected by user)
+2026-09-02 12:16:58 Added user-compared photo record 84 (rejected by user)
+2026-09-02 12:18:29 Added user-compared photo record 85 (rejected by user)
+2026-09-02 12:18:40 Added user-compared photo record 86 (matched by user)
+2026-09-02 12:28:14 Added user-compared photo record 87 (rejected by user)
+2026-09-02 12:28:56 Added user-compared photo record 88 (rejected by user)
+2026-09-02 12:29:56 Added user-compared photo record 89 (rejected by user)
+2026-09-02 12:31:14 Added user-compared photo record 90 (rejected by user)
+2026-09-02 12:36:36 Added user-compared photo record 91 (rejected by user)
+2026-09-02 12:49:18 Added user-compared photo record 92 (matched by user)
+2026-09-02 12:50:56 Added user-compared photo record 93 (rejected by user)
+2026-09-02 12:52:15 Added user-compared photo record 94 (rejected by user)
+2026-09-02 12:56:22 Added user-compared photo record 95 (rejected by user)
+2026-09-02 12:57:33 Added user-compared photo record 96 (rejected by user)
+2026-09-02 12:58:59 Added user-compared photo record 97 (matched by user)
+2026-09-02 12:59:12 Added user-compared photo record 98 (matched by user)
+2026-09-02 13:00:12 Added user-compared photo record 99 (matched by user)
+2026-09-02 13:00:18 Added user-compared photo record 100 (matched by user)
+2026-09-02 13:00:55 Added user-compared photo record 101 (rejected by user)
+2026-09-02 13:08:48 Exiting (main window closed)
+2026-09-02 23:32:13 ============================================================
+2026-09-02 23:32:13 Wild-ID 1.0 Rev 603 dated 2011-01-13 20:36:33 -0500
+2026-09-02 23:32:13 Arch/OS: amd64/Windows 11 10.0
+2026-09-02 23:32:13 JVM: Eclipse Adoptium
+2026-09-02 23:32:13      OpenJDK 64-Bit Server VM 25.0.2+10-LTS
+2026-09-02 23:32:13 JRE: Eclipse Adoptium JRE 25.0.2
+2026-09-02 23:32:13 JVM Spec: Oracle Corporation
+2026-09-02 23:32:13           Java Virtual Machine Specification 25
+2026-09-02 23:32:13 JRE Spec: Oracle Corporation
+2026-09-02 23:32:13           Java Platform API Specification 25
+2026-09-02 23:32:13 Java max memory = 1970 MiB
+2026-09-02 23:32:13 DB is C:\Users\Abhiruchi\OneDrive\Desktop\Wild-ID\test
+2026-09-02 23:32:13 Photos folder is C:\Users\Abhiruchi\OneDrive\Desktop\Wild-ID\A_POND_BELLIES_FINAL
+2026-09-02 23:33:13 Added user-compared photo record 102 (rejected by user)
+2026-09-02 23:33:35 Added user-compared photo record 103 (matched by user)
+2026-09-02 23:34:21 Added user-compared photo record 104 (rejected by user)
+2026-09-02 23:35:12 Added user-compared photo record 105 (rejected by user)
+2026-09-02 23:36:48 Added user-compared photo record 106 (rejected by user)
+2026-09-02 23:37:29 Added user-compared photo record 107 (rejected by user)
+2026-09-02 23:37:34 Added user-compared photo record 108 (matched by user)
+2026-09-02 23:38:09 Added user-compared photo record 109 (rejected by user)
+2026-09-02 23:38:54 Added user-compared photo record 110 (rejected by user)
+2026-09-02 23:39:21 Added user-compared photo record 111 (rejected by user)
+2026-09-02 23:39:32 Exiting (main window closed)
+2026-09-03 00:18:35 ============================================================
+2026-09-03 00:18:36 Wild-ID 1.0 Rev 603 dated 2011-01-13 20:36:33 -0500
+2026-09-03 00:18:36 Arch/OS: amd64/Windows 11 10.0
+2026-09-03 00:18:36 JVM: Eclipse Adoptium
+2026-09-03 00:18:36      OpenJDK 64-Bit Server VM 25.0.2+10-LTS
+2026-09-03 00:18:36 JRE: Eclipse Adoptium JRE 25.0.2
+2026-09-03 00:18:36 JVM Spec: Oracle Corporation
+2026-09-03 00:18:36           Java Virtual Machine Specification 25
+2026-09-03 00:18:36 JRE Spec: Oracle Corporation
+2026-09-03 00:18:36           Java Platform API Specification 25
+2026-09-03 00:18:36 Java max memory = 1970 MiB
+2026-09-03 00:18:36 DB is C:\Users\Abhiruchi\OneDrive\Desktop\Wild-ID\test
+2026-09-03 00:18:36 Photos folder is C:\Users\Abhiruchi\OneDrive\Desktop\Wild-ID\A_POND_BELLIES_FINAL
+2026-09-03 00:19:47 Added user-compared photo record 112 (rejected by user)
+2026-09-03 00:19:53 Added user-compared photo record 113 (matched by user)
+2026-09-03 00:19:59 Added user-compared photo record 114 (matched by user)
+2026-09-03 00:20:04 Added user-compared photo record 115 (matched by user)
+2026-09-03 00:22:57 Added user-compared photo record 116 (rejected by user)
+2026-09-03 00:23:52 Added user-compared photo record 117 (rejected by user)
+2026-09-03 00:23:56 Added user-compared photo record 118 (matched by user)
+2026-09-03 00:24:08 Added user-compared photo record 119 (matched by user)
+2026-09-03 00:25:43 Added user-compared photo record 120 (rejected by user)
+2026-09-03 00:27:47 Added user-compared photo record 121 (rejected by user)
+2026-09-03 00:27:51 Added user-compared photo record 122 (matched by user)
+2026-09-03 00:28:26 Added user-compared photo record 123 (rejected by user)
+2026-09-03 00:28:38 Added user-compared photo record 124 (matched by user)
+2026-09-03 00:28:43 Added user-compared photo record 125 (matched by user)
+2026-09-03 00:29:34 Added user-compared photo record 126 (rejected by user)
+2026-09-03 00:29:37 Added user-compared photo record 127 (matched by user)
+2026-09-03 00:35:36 Added user-compared photo record 128 (rejected by user)
+2026-09-03 00:36:12 Added user-compared photo record 129 (rejected by user)
+2026-09-03 00:37:19 Added user-compared photo record 130 (rejected by user)
+2026-09-03 00:37:23 Added user-compared photo record 131 (matched by user)
+2026-09-03 00:38:33 Added user-compared photo record 132 (rejected by user)
+2026-09-03 00:39:07 Added user-compared photo record 133 (rejected by user)
+2026-09-03 00:45:05 Added user-compared photo record 134 (rejected by user)
+2026-09-03 00:45:26 Added user-compared photo record 135 (matched by user)
+2026-09-03 00:46:10 Added user-compared photo record 136 (rejected by user)
+2026-09-03 00:46:16 Added user-compared photo record 137 (matched by user)
+2026-09-03 00:46:58 Added user-compared photo record 138 (rejected by user)
+2026-09-03 00:47:34 Added user-compared photo record 139 (rejected by user)
+2026-09-03 00:48:14 Added user-compared photo record 140 (rejected by user)
+2026-09-03 00:48:41 Added user-compared photo record 141 (rejected by user)
+2026-09-03 00:49:21 Added user-compared photo record 142 (rejected by user)
+2026-09-03 00:50:36 Added user-compared photo record 143 (rejected by user)
+2026-09-03 00:50:41 Added user-compared photo record 144 (matched by user)
+2026-09-03 00:50:45 Added user-compared photo record 145 (matched by user)
+2026-09-03 00:54:19 Added user-compared photo record 146 (rejected by user)
+2026-09-03 00:54:43 Added user-compared photo record 147 (rejected by user)
+2026-09-03 01:00:35 Added user-compared photo record 148 (rejected by user)
+2026-09-03 01:01:16 Added user-compared photo record 149 (rejected by user)
+2026-09-03 01:01:19 Added user-compared photo record 150 (matched by user)
+2026-09-03 01:01:25 Added user-compared photo record 151 (matched by user)
+2026-09-03 01:01:29 Added user-compared photo record 152 (matched by user)
+2026-09-03 01:01:32 Added user-compared photo record 153 (matched by user)
+2026-09-03 01:02:15 Added user-compared photo record 154 (rejected by user)
+2026-09-03 01:03:10 Added user-compared photo record 155 (rejected by user)
+2026-09-03 01:03:55 Added user-compared photo record 156 (rejected by user)
+2026-09-03 01:04:23 Added user-compared photo record 157 (rejected by user)
+2026-09-03 01:04:27 Added user-compared photo record 158 (matched by user)
+2026-09-03 01:04:54 Added user-compared photo record 159 (rejected by user)
+2026-09-03 01:05:32 Added user-compared photo record 160 (rejected by user)
+2026-09-03 01:05:36 Added user-compared photo record 161 (matched by user)
+2026-09-03 01:06:02 Added user-compared photo record 162 (rejected by user)
+2026-09-03 01:06:56 Added user-compared photo record 163 (rejected by user)
+2026-09-03 01:07:00 Added user-compared photo record 164 (matched by user)
+2026-09-03 01:08:13 Added user-compared photo record 165 (rejected by user)
+2026-09-03 01:09:44 Added user-compared photo record 166 (rejected by user)
+2026-09-03 01:10:58 Added user-compared photo record 167 (rejected by user)
+2026-09-03 01:11:37 Added user-compared photo record 168 (rejected by user)
+2026-09-03 01:12:15 Added user-compared photo record 169 (rejected by user)
+2026-09-03 01:12:54 Added user-compared photo record 170 (rejected by user)
+2026-09-03 01:12:58 Added user-compared photo record 171 (matched by user)
+2026-09-03 01:13:05 Added user-compared photo record 172 (matched by user)
+2026-09-03 01:13:09 Added user-compared photo record 173 (matched by user)
+2026-09-03 01:13:19 Added user-compared photo record 174 (matched by user)
+2026-09-03 01:13:22 Added user-compared photo record 175 (matched by user)
+2026-09-03 01:13:25 Added user-compared photo record 176 (matched by user)
+2026-09-03 01:13:28 Added user-compared photo record 177 (matched by user)
+2026-09-03 01:13:59 Added user-compared photo record 178 (matched by user)
+2026-09-03 01:14:03 Added user-compared photo record 179 (matched by user)
+2026-09-03 01:15:28 Added user-compared photo record 180 (rejected by user)
+2026-09-03 01:15:50 Added user-compared photo record 181 (rejected by user)
+2026-09-03 01:15:55 Added user-compared photo record 182 (matched by user)
+2026-09-03 01:16:39 Added user-compared photo record 183 (rejected by user)
+2026-09-03 01:16:43 Added user-compared photo record 184 (matched by user)
+2026-09-03 01:18:05 Added user-compared photo record 185 (rejected by user)
+2026-09-03 01:19:06 Added user-compared photo record 186 (rejected by user)
+2026-09-03 01:19:10 Added user-compared photo record 187 (matched by user)
+2026-09-03 01:19:14 Added user-compared photo record 188 (matched by user)
+2026-09-03 01:21:09 Added user-compared photo record 189 (rejected by user)
+2026-09-03 01:21:18 Added user-compared photo record 190 (matched by user)
+2026-09-03 01:21:22 Added user-compared photo record 191 (matched by user)
+2026-09-03 01:21:22 Matching completed
+2026-09-03 01:21:24 Exiting (nothing more to do)
