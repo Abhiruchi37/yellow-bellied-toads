@@ -6,7 +6,7 @@ This folder contains the final outputs from the belly extraction and re-identifi
 
 The results are organised into three main components:
 
-- `extraction_results.csv` – summary of the belly extraction results
+- `extraction_results/` – summary of the belly extraction results
 - `wildid/` – Wild-ID matching and manually confirmed reference matches
 - `reidentification/` – results from the automated re-identification methods
 
@@ -37,16 +37,6 @@ The folder contains the manually confirmed match information together with the a
 A total of **62 pairwise matches** were manually confirmed using Wild-ID.
 
 These confirmed pairs were subsequently used as the reference set for evaluating the automated re-identification approaches.
-
-### Wild-ID Test Output
-
-The `test/` folder contains the available files and logs generated during the Wild-ID experiment.
-
-The complete `match_info` output is not included in this GitHub repository because of its large size. It is available separately on Google Drive:
-
-[match_info - Google Drive](https://drive.google.com/drive/u/0/folders/1OnlE-AyhsJsfuNTN04oxDlrWgIpERbUg)
-
----
 
 ## Automated Re-Identification Results
 
