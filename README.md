@@ -12,7 +12,7 @@ This project was carried out as part of the RCS project at Trier University.
 - **Tenzin Nyidon Tenzin Nyidon** – Subgular Throat
 - **Ridhima Kishor Lawane** – Subgular Throat and Ventral Abdomen
 - **Abhiruchi Sanjaykumar Bharambe** – Ventral Abdomen
-- 
+  
 ### Supervisor
 - **Prof. Dr. Henning Fernau**
 - **Prof. Dr. Michael Veith**
