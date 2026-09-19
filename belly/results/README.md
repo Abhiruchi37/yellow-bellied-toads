@@ -1,3 +1,6 @@
-# Results
+# Re-identification and Extraction Results
 
-Outputs from the belly re-identification and extraction experiments. Method-specific result files can be uploaded to the folders below.
+This folder contains the final experimental outputs rather than YOLO training-development folders.
+
+- `extraction/` — extraction summaries such as `extraction_results.csv`
+- `reidentification/` — Wild-ID, MiewID, BioCLIP 2, and ALIKED result files
