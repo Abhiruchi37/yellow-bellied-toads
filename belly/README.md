@@ -1,4 +1,4 @@
-# Belly-Only Photo-Identification Pipeline
+# Belly-Only Pipeline
 
 ## Overview
 
