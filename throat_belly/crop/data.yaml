@@ -1,0 +1,7 @@
+path: C:/Users/lawan/Desktop/yellow belly toads/Bappa/dataset_yolo
+
+train: images/train
+val: images/val
+
+names:
+  0: belly_throat
