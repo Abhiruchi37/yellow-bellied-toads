@@ -21,7 +21,6 @@ The `reidentification/` folder contains the results obtained from the different 
 
 The evaluated methods include:
 
-- Wild-ID
 - MiewID-msv3
 - BioCLIP 2
 - ALIKED + MNN + RANSAC
