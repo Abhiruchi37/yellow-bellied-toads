@@ -16,9 +16,7 @@ The aim is to investigate whether combining both ventral regions improves indivi
 6. Evaluation
 7. Comparison with throat-only and belly-only results
 
-## Files
 
-The group member responsible for this experiment can add the final notebook under:
 
 ```text
 throat_belly/notebooks/throat_belly_pipeline.ipynb
