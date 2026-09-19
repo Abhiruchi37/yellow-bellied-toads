@@ -1,1 +1,1 @@
-
+The `test/` folder contains additional files and logs generated during the Wild-ID experiment. The `match_info` output is not included in the GitHub repository because of its large file size and is available separately on Google Drive: [match_info - Google Drive](https://drive.google.com/drive/u/0/folders/1OnlE-AyhsJsfuNTN04oxDlrWgIpERbUg).
