@@ -169,7 +169,7 @@ belly/belly_pipeline.ipynb
 
 Selected documentation images can be stored under [`images/`](images/), separated into original examples, annotations, final crops, and YOLO predictions.
 
-The complete original image dataset is stored in the project [Google Drive folder](https://drive.google.com/drive/u/0/folders/1r_AQc_w7h_Xhkd9MLBpo8sZaRwaw9Mv-). The full dataset is not duplicated in this public repository. Only representative research photographs should be uploaded here when sharing permission allows it.
+The complete original image dataset is stored in the project [Google Drive folder](https://drive.google.com/drive/u/0/folders/1r_AQc_w7h_Xhkd9MLBpo8sZaRwaw9Mv-). The full dataset is not duplicated in this public repository. 
 
 ## Data Availability
 
