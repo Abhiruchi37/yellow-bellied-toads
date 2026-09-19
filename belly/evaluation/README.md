@@ -1,6 +1,6 @@
 # Belly Segmentation Model Evaluation
 
-This folder contains the datasets, trained model weights, and validation outputs for the two YOLO segmentation models developed for belly-region detection and extraction.
+This folder contains the trained model weights, and validation outputs for the two YOLO segmentation models developed for belly-region detection and extraction.
 
 The segmentation stage was developed in two steps: an initial model trained on manually annotated images, followed by a final model trained using the expanded labelled dataset.
 
@@ -9,8 +9,6 @@ The segmentation stage was developed in two steps: an initial model trained on m
 ### First Model
 
 The `first_model/` folder contains the files associated with the initial YOLO segmentation model.
-
-The initial dataset was created from 100 manually annotated images selected from the A and H pond datasets. The images were annotated in CVAT using polygon masks around the belly region.
 
 The initial model was trained using:
 
