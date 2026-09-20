@@ -60,3 +60,11 @@ The final SuperPoint + LightGlue script is also included in this folder.
 ## Note
 
 RANSAC is not part of the final implemented re-identification pipeline. It is considered only as a possible extension for future work.
+
+## Local Paths
+
+The scripts contain local file paths corresponding to the directory structure used during the original experiments.
+
+Before running the scripts on another computer, these paths must be changed to match the local project and dataset locations.
+
+The paths have been kept unchanged in this repository to preserve the scripts as they were used for the reported experiments.
