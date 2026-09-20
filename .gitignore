@@ -14,6 +14,7 @@ wandb/
 *.pt
 *.pth
 *.ckpt
+!throat_belly/crop/model/best.pt
 
 # Large/private datasets
 data/

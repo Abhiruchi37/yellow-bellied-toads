@@ -1,0 +1,10 @@
+# YOLO dataset configuration for the combined belly + throat segmentation task.
+# Set 'path' to the local location of the complete YOLO dataset before training.
+
+path: /path/to/dataset_yolo
+
+train: images/train
+val: images/val
+
+names:
+  0: belly_throat

@@ -9,5 +9,6 @@ Pillow
 torch
 torchvision
 
-# Additional re-identification dependencies should be pinned
-# after the final notebook environment is reviewed.
+# Dependencies used by the SuperPoint + LightGlue identification notebook
+transformers
+accelerate
