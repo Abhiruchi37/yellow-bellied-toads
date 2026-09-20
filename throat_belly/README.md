@@ -332,3 +332,13 @@ The following large or duplicate files are intentionally not included:
 - Wild-ID application files
 - Wild-ID internal binary database files
 - Wild-ID logs
+
+## Complete Dataset
+
+The complete image dataset used for the throat + belly workflow is stored separately due to its size.
+
+The dataset can be accessed here:
+
+[Google Drive – Throat + Belly Dataset](https://drive.google.com/drive/folders/1BwMCnQ9A-2R8r-ByrtHOWQapXQxAsPKW?usp=sharing)
+
+The repository contains the annotations, YOLO labels, trained model, selected examples, scripts and result files used to document the workflow.
