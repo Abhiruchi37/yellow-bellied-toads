@@ -308,8 +308,7 @@ scripts/README.md
 
 ## Repository Data
 
-The repository contains the main files required to document and reproduce the combined throat + belly workflow, including:
-
+The repository contains the main files used to document the combined throat + belly workflow, including:
 - original LabelMe annotation files
 - converted YOLO segmentation labels
 - YOLO dataset configuration
