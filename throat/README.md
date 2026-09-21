@@ -255,3 +255,6 @@ python 03_2_Siamese_network/src/test_strict_unique_rejection.py --model both
 ```
 
 ---
+
+## Note:
+The data can be accessed directly through [Google Drive](https://drive.google.com/drive/folders/1tuIzULP53hN0nDEdMqOzfhzrobqYBTG2?usp=sharing) .
